@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# CAICETRAVEL
+# ESCUELA DEMO
 
 _Proyecto para gestionar registro de estudiante_
 
