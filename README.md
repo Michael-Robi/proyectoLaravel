@@ -15,7 +15,7 @@ _Proyecto para gestionar registro de estudiante_
 
 La aplicación fue diseñada para administrar registrar alumnos en un entorno de desarrollo laravel, mediante datos faker, opera con formularios dinámicos, tabla de bootraps versión 4 o superiores.
 
-* [Manual de Usuario](https://docs.google.com/document/d/11ug_KFve2_7ij-igToq_wnqk2XA6-jiC/edit?usp=sharing&ouid=117342736453306308633&rtpof=true&sd=true) - En el cual se indica los roles del Administrador y el Usuario
+* [Manual de Usuario](https://docs.google.com/document/d/1d1WzakqrvEc5MIO2DI3TNsfhiQq8JmPQ/edit?usp=sharing&ouid=117342736453306308633&rtpof=true&sd=true) - En el cual se indica los roles del Administrador y el Usuario
 
 ### Pre-requisitos 📋
 
