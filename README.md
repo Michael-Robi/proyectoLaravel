@@ -7,55 +7,34 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
+# CAICETRAVEL
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+_Proyecto para gestionar registro de estudiante_
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Comenzando 🚀
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+La aplicación fue diseñada para administrar registrar alumnos en un entorno de desarrollo laravel, mediante datos faker, opera con formularios dinámicos, tabla de bootraps versión 4 o superiores.
 
-## Learning Laravel
+* [Manual de Usuario](https://docs.google.com/document/d/11ug_KFve2_7ij-igToq_wnqk2XA6-jiC/edit?usp=sharing&ouid=117342736453306308633&rtpof=true&sd=true) - En el cual se indica los roles del Administrador y el Usuario
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Pre-requisitos 📋
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+* _BASE DE DATOS MYSQL: Importar base de datos: ProyectoLaravel.sql, de la carpeta: [BASE DE DATOS PROYECTO](https://github.com/Michael-Robi/proyectoLaravel/tree/main/BASE_DATOS) en: http://localhost/phpmyadmin/,
+* [Video Importar Base de datos](https://www.youtube.com/watch?v=z5-F9TomceQ) - Instructivo
+* _Host Local en Wamp: Copiar proyecto en la ruta: C:\wamp64\www_,
+* _Host Local en Laragon: Copiar proyecto en la ruta: C:\laragon\www_,
+* _Host Local en Xamp: Copiar proyecto en la ruta: C:\xampp\htdocs_,
+* _PHP 5: o versiones superiores_
 
-## Laravel Sponsors
+## Pagina web 🔧
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+La pantalla de inicio muestra un menú global con 2 opciones Login, Registrarse, lo cual implica que las personas que vayan acceder a la aplicación deben estar registradas.
+![image](https://user-images.githubusercontent.com/77336151/146158052-aa0abe45-4ffb-41a3-a5f9-87ddfb0ab3a1.png)
 
-### Premium Partners
+### _Gestion de estudiantes_
+Ingresamos con el administrador de prueba
+* Correo Electronico: cristian.cordoba@example.com
+* Contraseña: 1234
+![image](https://user-images.githubusercontent.com/77336151/146158542-ec18913f-2ebc-443e-8393-32af7ea77635.png)
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
 
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
